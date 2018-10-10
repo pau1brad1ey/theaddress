@@ -44,7 +44,7 @@ const IndexPage = () => (
             isMarkerShown
             googleMapURL='https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places'
             loadingElement={<div style={{ height: `100%` }} />}
-            containerElement={<div style={{ height: `400px` }} />}
+            containerElement={<div style={{ height: `500px` }} />}
             mapElement={<div style={{ height: `100%` }} />}
           />
         </div>
@@ -58,14 +58,14 @@ const IndexPage = () => (
         <h1 className='centered'>Contact Us</h1>
         <hr />
         <br />
-        <div className='col-sm-offset-2 col-sm-4'>
+        <div className='col-md-6'>
           <p>
             <span className='fa fa-home' /> 9 rue des Troenes, 11000 Carcassonne <br />
             <span className='fa fa-phone' /> 06 65 06 05 74 <br />
             <span className='fa fa-phone' /> 00336 65 06 05 74 (from UK) <br />
           </p>
         </div>
-        <div className='col-sm-offset-2 col-sm-4'>
+        <div className='col-md-6'>
           <p>
             <span className='fa fa-envelope' /> <a href='mailto:theaddressfrance@gmail.com'> theaddressfrance@gmail.com</a> <br />
             <span className='fa fa-instagram' /> <a href='https://www.instagram.com/theaddressfrance/'> Follow us on instagram</a><br />

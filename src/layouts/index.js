@@ -38,8 +38,8 @@ const TemplateWrapper = ({ children }) => (
         { name: 'keywords', content: 'The Address, Carcassonne, Apartment, Rent' }
       ]}
       link={[
-        {rel: 'stylesheet', href: 'http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic'},
-        {rel: 'stylesheet', href: 'http://fonts.googleapis.com/css?family=Raleway:400,300,700'}
+        {rel: 'stylesheet', href: 'http://fonts.googleapis.com/css?family=Rubik:300,400,700,300italic,400italic'},
+        {rel: 'stylesheet', href: 'http://fonts.googleapis.com/css?family=Martel:400,300,700'}
       ]}
     />
     {children()}
