@@ -71,8 +71,8 @@ const IndexPage = () => (
         <div className='col-md-6'>
           <p>
             <span className='fa fa-home' /> 9 rue des Troenes, 11000 Carcassonne <br />
-            <span className='fa fa-phone' /> 06 65 06 05 74 <br />
-            <span className='fa fa-phone' /> 00336 65 06 05 74 (from UK) <br />
+            <span className='fa fa-phone' /> 06 06 42 47 35 <br />
+            <span className='fa fa-phone' /> 00336 06 42 47 35 (from UK) <br />
           </p>
         </div>
         <div className='col-md-6'>
