@@ -19,6 +19,10 @@ const IndexPage = () => (
       <header className='clearfix'>
         <h1>The Address<br />Carcassonne<br />France</h1>
         <p>Self catering apartment in the South of France</p>
+        <p>
+          <br /><br />
+          <a className='btn btn-primary btn-lg' href='http://www.booking.com/Share-pJxWxmC'>BOOK NOW</a>
+        </p>
       </header>
       <ul className='slideshow'>
         <li><span>Image 01</span><div><h3>Peaceful</h3></div></li>
@@ -79,6 +83,7 @@ const IndexPage = () => (
           <p>
             <span className='fa fa-envelope' /> <a href='mailto:theaddressfrance@gmail.com'> theaddressfrance@gmail.com</a> <br />
             <span className='fa fa-instagram' /> <a href='https://www.instagram.com/theaddressfrance/'> Follow us on instagram</a><br />
+            <span className='fa fa-address-book' /> <a className='' href='http://www.booking.com/Share-pJxWxmC'>Book now</a>
           </p>
         </div>
       </div>
