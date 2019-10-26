@@ -59,7 +59,7 @@ const IndexPage = () => (
             height='450'
             frameBorder='0'
             style={{ border: '0' }}
-            src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCqla1IMTIRuXZ8AXMhVA85OL9jKDmzSio&q=place_id:ChIJoRZBTiIsrhIR63BvmEQMetE'
+            src='https://www.google.com/maps/embed/v1/view?key=AIzaSyCqla1IMTIRuXZ8AXMhVA85OL9jKDmzSio&center=43.2190549,2.3592123&zoom=18'
             allowFullScreen />
         </div>
       </div>
