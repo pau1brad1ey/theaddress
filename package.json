@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Paul Bradley",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "font-awesome": "^4.7.0",
     "gatsby": "^1.9.145",
     "gatsby-link": "^1.6.32",
